@@ -2,29 +2,6 @@
 
 This assignment is a **4-page website**. It showcases Vecta Corporation with pages for **Home, About Us, Solutions, and Contact Us**, each linked with a navigation bar made up of images.  
 
-## 📑 Pages Overview  
-
-### 🏠 Home (`index.html`)  
-- Welcome message introducing Vecta Corporation.  
-- Overview of solutions: **vProspect 2.0, vConvert 2.0, vRetain 1.0**.  
-- Client testimonial from **Zak Ruvalcaba, CEO of Module Media**.  
-- Includes required external link: [Module Media](http://www.modulemedia.com).  
-
-### 👥 About Us (`aboutus.html`)  
-- **Company Overview** describing Vecta Corp’s methodology.  
-- **Management Team** bios: Agnes, Damon, Herbert, Mike, and Wilbur.  
-- **Careers** section encouraging applications.  
-
-### 💡 Solutions (`solutions.html`)  
-- Detailed descriptions of Vecta’s business solutions:  
-  - **vProspect 2.0** – Research and branding.  
-  - **vConvert 2.0** – Interactive architecture and user experience.  
-  - **vRetain 1.0** – Customer retention and productivity.  
-
-### 📞 Contact Us (`contactus.html`)  
-- Company headquarters address.  
-- Phone number.  
-
 ## 🔗 Navigation  
 Each page includes a **navigation bar made of image buttons** (`.gif` format). The buttons link to:  
 - Home → `index.html`  
