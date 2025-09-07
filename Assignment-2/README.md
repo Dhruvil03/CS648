@@ -14,7 +14,3 @@ Each page includes a **navigation bar made of image buttons** (`.gif` format). T
 - Inline body style (`width:960px;margin:0 20px;`) is kept as provided in starter code.  
 - Proper semantic markup is used (`<strong>`, `<em>`, `<address>`, `<ul>/<li>`).  
 ```
-
----
-
-Would you like me to also include a **"How to Run"** section in the README (like “open `index.html` in a browser”) so it looks more professional?
