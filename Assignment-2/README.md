@@ -13,4 +13,3 @@ Each page includes a **navigation bar made of image buttons** (`.gif` format). T
 - All `<h2>` headings are used per assignment instructions.  
 - Inline body style (`width:960px;margin:0 20px;`) is kept as provided in starter code.  
 - Proper semantic markup is used (`<strong>`, `<em>`, `<address>`, `<ul>/<li>`).  
-```
