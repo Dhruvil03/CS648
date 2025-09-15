@@ -7,11 +7,11 @@ This repository contains the HTML and CSS files for the website's main page, abo
 ---
 
 ## Table of Contents (Part 1 and 2)
-1. [Home Page](home.html)  
-2. [About Us Page](about.html)  
-3. [Solutions Page](solutions.html)  
-4. [Pricing Page](pricing.html)  
-5. [Contact Us Page](contactus.html)  
-6. [CSS Styles](styles.css)  
+1. Home Page (home.html)  
+2. About Us Page (about.html)  
+3. Solutions Page (solutions.html)  
+4. Pricing Page (pricing.html)  
+5. Contact Us Page (contactus.html)  
+6. CSS Styles (styles.css)  
 
 ---
